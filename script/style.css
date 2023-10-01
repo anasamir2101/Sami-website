@@ -1,0 +1,12 @@
+
+    .card {
+      border: 1px solid #ccc;
+      padding: 16px;
+      margin: 16px;
+      width: 300px;
+    }
+    .card img {
+      width: 100%;
+      height: auto;
+    }
+  
